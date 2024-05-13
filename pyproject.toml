@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "mlops-zoom-camp"
+version = "0.1.0"
+description = "Package manager for MLOps Zoom Camp repository"
+authors = ["João Fonseca <joao.fonseca@promptlyhealth.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ipykernel = "^6.29.4"
+pandas = "^2.2.2"
+seaborn = "^0.13.2"
+matplotlib = "^3.8.4"
+scikit-learn = "^1.4.2"
+pyarrow = "^16.0.0"
+fastparquet = "^2024.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
