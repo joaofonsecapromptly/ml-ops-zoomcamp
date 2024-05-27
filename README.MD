@@ -29,10 +29,10 @@ My version of public learning is creating this notebook of difficulties and what
 
 ## First test of running train.py with MLFlow autlogging
 
-- ![First test of running train.py with MLFlow autlogging](image.png)
+- ![First test of running train.py with MLFlow autlogging](images/image.png)
 
 
-- ![Hyperoptimization in MLFlow](image-1.png)
+- ![Hyperoptimization in MLFlow](images/image-1.png)
 
 
-- ![Final experiment with test set, saving the best model](best_model_saved.png)
+- ![Final experiment with test set, saving the best model](images/best_model_saved.png)
