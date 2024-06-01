@@ -39,6 +39,9 @@ How many records did we load?
 - 3,403,766 [x]
 - 3,603,766
 
+
+![alt text](images/size_of_data_hw3.png)
+
 ## Question 4. Data preparation
 
 
@@ -71,6 +74,9 @@ What's the size of the result?
 - 3,316,216 [x]
 - 3,503,766
 
+
+![alt text](images/size_1_transformer.png)
+
 ## Question 5. Train a model
 
 We will now train a linear regression model using the same code as in homework 1
@@ -89,6 +95,9 @@ Hint: print the `intercept_` field in the code block
 - 24.77 [x]
 - 27.77
 - 31.77
+
+
+![alt text](images/intercept_result.png)
 
 ## Question 6. Register the model 
 
@@ -154,6 +163,9 @@ Find the logged model, and find MLModel file. What's the size of the model? (`mo
 * 1,534
 
 > Note: typically we do two last steps in one code block 
+
+
+![alt text](images/model_size_mlflow.png)
 
 
 ## Submit the results
